@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Ceci est un test
-pourquoi est-ce que ça apparait 2 fois?
+☀️
+# Bienvenue sur le site de la Villa Soleil à Régusse
 
-## Ceci est un sous-test
+// mettre description + liens

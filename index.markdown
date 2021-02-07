@@ -41,6 +41,7 @@ L’adresse de la maison :
 385 Carraïre de l’Eouvière
 F-83630 Régusse
 ```
+[Voir sur google maps][lien_adresse]
 
 Pour plus de renseignements :
 ```
@@ -56,3 +57,4 @@ Karin : +41 78 682 76 95
 # [Photos de la maison][lien_photos]
 
 [lien_photos]: https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing
+[lien_adresse]: https://goo.gl/maps/pRXoCnDuEWykw3zU7

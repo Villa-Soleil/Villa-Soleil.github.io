@@ -13,7 +13,7 @@ Nous avons le plaisir de vous présenter notre Maison de vacances en Provence à
 La villa se trouve sur un terrain de 1840 m2. 
 La surface habitable de la maison est de 109m2. 
 Une magnifique piscine de 11 x 6 mètres, privative et clôturée est à votre disposition.  
-Un endroit suffisamment grand pour deux voitures se trouve sur le terrain à côté de la maison. Un coin de forêt avec table de ping-pong fixe pourra faire la Une pour petits et grands.
+Un endroit suffisamment grand pour deux voitures se trouve sur le terrain à côté de la maison. Il y une table de ping-pong fixe et une balançoire dans un petit coin forêt.
 Une plancha est mise à disposition pour animer vos soirées grillades.
 
 Notre maison est très confortable et prévue pour des séjours à 8 personnes.

@@ -27,16 +27,16 @@ La maison dispose de 3 chambres à coucher avec chacune sa salle de bains:
 - une chambre avec lit double et mezzanine,
 - une chambre avec lit double vue piscine,
 - une chambre en mezzanine avec balcon vue piscine.
-- une petite chambre acec des lits super-posés.
+- une petite chambre avec des lits superposés.
 
 Les tarifs pour la location par semaine sont les suivants:
 
 - Juillet et Août CHF 1650 / € 1500
-- Mai, Juin, Septembre et Octobre 1450 / € 1300
+- Mai, Juin, Septembre 1450 / € 1300
 - Les autres mois de l’année CHF 1250 / € 1100
 
 
-Compris dans le prix : Le nettoyage final, la literie complète, le WIFI.
+Compris dans le prix : La literie complète, le WIFI.
 
 La situation de la maison est calme, sans voisins directs et proche du village médiéval de Régusse. La distance à pied jusqu’au village/Vieux Bourg est environ 1 km (boulangerie, épicerie, pharmacie, Banque postale). Un SuperU se trouve à 8 minutes en voiture.
 

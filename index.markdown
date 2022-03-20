@@ -14,9 +14,9 @@ La villa se trouve sur un terrain de 1840 m2.
 La surface habitable de la maison est de 109m2. 
 Une magnifique piscine de 11 x 6 mètres, privative et clôturée est à votre disposition.  
 Un endroit suffisamment grand pour deux voitures se trouve sur le terrain à côté de la maison. Il y une table de ping-pong fixe et une balançoire dans un petit coin forêt.
-Une plancha est mise à disposition pour animer vos soirées grillades.
+Une plancha est mise à votre disposition pour animer vos soirées grillades.
 
-Notre maison est très confortable et prévue pour des séjours à 8 personnes.
+Notre maison est très confortable et aménagée pour des séjours à 8 personnes.
 
 Description de l’intérieur :
 Un salon avec sortie sur la terrasse. 
@@ -31,9 +31,9 @@ La maison dispose de 3 chambres à coucher avec chacune sa salle de bains:
 
 Les tarifs pour la location par semaine sont les suivants:
 
-- Juillet et Août CHF 1650 / € 1500
-- Mai, Juin, Septembre 1450 / € 1300
-- Les autres mois de l’année CHF 1250 / € 1100
+- Juillet et Août CHF 1650
+- Mai, Juin, Septembre 1450
+- Les autres mois de l’année CHF 1250
 
 
 Compris dans le prix : La literie complète, le WIFI.

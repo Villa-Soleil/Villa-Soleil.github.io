@@ -7,6 +7,12 @@ layout: home
 
 ☀️
 # Bienvenue sur le site de la Villa Soleil ☀️ à Régusse
+<a href="https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing" target="_blank">
+    <img src="images/image_home.jpg" alt="Photo de la piscine et de la maison">
+</a>
+## <a href="https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing" target="_blank">Plus de photos de la maison ↗</a>
+## <a href="https://drive.google.com/drive/folders/1se6Oy7ol2nUFp6keT_O8qhTzH1SE7-SV?usp=sharing" target="_blank">Vidéos de la maison ↗</a>
+
 
 Nous avons le plaisir de vous présenter notre Maison de vacances en Provence à 83630 Régusse dans le Département du Var.
 
@@ -62,7 +68,7 @@ Karin : +41 78 682 76 95
 
 ```
 
-# [Photos de la maison][lien_photos]
+
 
 [lien_photos]: https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing
 [lien_adresse]: https://goo.gl/maps/pRXoCnDuEWykw3zU7

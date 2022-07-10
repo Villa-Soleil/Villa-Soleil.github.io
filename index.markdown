@@ -7,9 +7,14 @@ layout: home
 
 ☀️
 # Bienvenue sur le site de la Villa Soleil ☀️ à Régusse
-<a href="https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing" target="_blank">
-    <img src="images/image_home.jpg" alt="Photo de la piscine et de la maison">
-</a>
+![Vue globale depuis le coin ouest de la piscine](images/compressed/vue_globale_coin_piscine.JPG "Vue globale depuis le coin ouest de la piscine")
+-
+![Garage et terrasse](images/compressed/garage_et_terrasse.JPG "Garage et terrasse")
+-
+![Table de ping-pong](images/compressed/table_ping_pong.JPG "Table de ping-pong")
+-
+![Douche de piscine et terrasse](images/compressed/douche_cobra_piscine.JPG "Douche de piscine et terrasse")
+
 ## <a href="https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing" target="_blank">Plus de photos de la maison ↗</a>
 ## <a href="https://drive.google.com/drive/folders/1se6Oy7ol2nUFp6keT_O8qhTzH1SE7-SV?usp=sharing" target="_blank">Vidéos de la maison ↗</a>
 
@@ -18,7 +23,7 @@ Nous avons le plaisir de vous présenter notre Maison de vacances en Provence à
 
 La villa se trouve sur un terrain de 1840 m2. 
 La surface habitable de la maison est de 109m2. 
-Une magnifique piscine de 11 x 6 mètres, privative et clôturée est à votre disposition.  
+Une magnifique piscine de 11 x 5 mètres, privative et clôturée est à votre disposition.  
 Un endroit suffisamment grand pour deux voitures se trouve sur le terrain à côté de la maison. Il y une table de ping-pong fixe et une balançoire dans un petit coin forêt.
 Une plancha est mise à votre disposition pour animer vos soirées grillades.
 

@@ -27,31 +27,32 @@ Une magnifique piscine de 11 x 5 mètres, privative et clôturée est à votre d
 Un endroit suffisamment grand pour deux voitures se trouve sur le terrain à côté de la maison. Il y une table de ping-pong fixe et une balançoire dans un petit coin forêt.
 Une plancha est mise à votre disposition pour animer vos soirées grillades.
 
-Notre maison est très confortable et aménagée pour des séjours à 8 personnes.
+Notre maison est très confortable et aménagée pour des séjours à 8 personnes (avec un maximum de 6 adultes).
 
-Description de l’intérieur :
+## Description de l’intérieur :
 Un salon avec sortie sur la terrasse. 
-Une cuisine équipée avec un grand frigo, une cuisinière à gaz, un lave-vaisselle et un congélateur. 
-Une machine à laver est mise à disposition.
+Une cuisine équipée avec un grand frigo, un congélateur, une plaque vitrocéramique à induction Miele, un lave-vaisselle et un four Siemens. 
+Une machine à laver est mise à votre disposition.
 
 La maison dispose de 3 chambres à coucher avec chacune sa salle de bains:
-- une chambre avec lit double et mezzanine,
+- une chambre avec lit double et petite mezzanine,
 - une chambre avec lit double vue piscine,
-- une chambre en mezzanine avec balcon vue piscine.
+- une grande chambre en mezzanine avec balcon vue piscine.
 - une petite chambre avec des lits superposés.
 
 Les tarifs pour la location par semaine sont les suivants:
 
 - Juillet et Août CHF 1650
 - Mai, Juin, Septembre 1450
-- Les autres mois de l’année CHF 1250
+- Autres périodes: tarifs sur demande.
 
 
-Compris dans le prix : La literie complète, le WIFI.
+Compris dans le prix : La literie complète, le WIFI, l'eau, l'électricité et le gaz.
 
-La situation de la maison est calme, sans voisins directs et proche du village médiéval de Régusse. La distance à pied jusqu’au village/Vieux Bourg est environ 1 km (boulangerie, épicerie, pharmacie, Banque postale). Un SuperU se trouve à 8 minutes en voiture.
+## Situation :
+La situation de la maison est calme, sans voisins directs et proche du village médiéval de Régusse. La distance à pied jusqu’au village/Vieux Bourg est environ 1 km (boulangerie, épicerie, pharmacie, Banque postale). Un SuperU se situe à 5 minutes en voiture de la maison.
 
-Le Lac Sainte-Croix et les Gorges du Verdon sont situés à 20 minutes en voiture avec des possibilités de faire des sports nautiques comme du pédalo, du canoë, du kayak et de la planche à voile.
+Le Lac Sainte-Croix et les Gorges du Verdon sont situés à 20 minutes en voiture avec des possibilités de faire des sports nautiques comme du pédalo, du canoë, du kayak et de la planche à voile. Il est également possible d'y louer un petit bateau électrique pour faire une promenade en bateau sur le lac.
 
 La maison se trouve à environ une heure de voiture de la mer.
 

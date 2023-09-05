@@ -42,9 +42,11 @@ La maison dispose de 3 chambres à coucher avec chacune sa salle de bains:
 
 Les tarifs pour la location par semaine sont les suivants:
 
-- Juillet et Août CHF 1650
-- Mai, Juin, Septembre 1450
+- Juillet et Août CHF 1600.-
+- Mai, Juin, Septembre CHF 1400.-
 - Autres périodes: tarifs sur demande.
+
+<strong> + Frais de nettoyage CHF 150.- </strong>
 
 
 Compris dans le prix : La literie complète, le WIFI, l'eau, l'électricité et le gaz.

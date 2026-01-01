@@ -73,8 +73,11 @@ CH-2114 Fleurier
 Fixe :  +41 32 861 43 89 
 Rémy :  +41 78 682 76 75 
 Karin : +41 78 682 76 95
-
 ```
+
+## ⛷️ 🚡 🫕 
+Si vous êtes à la recherche d'un **appartement à la montagne** pour cet hiver, pourquoi ne pas jeter un coup d'oeil à notre autre site:
+### [https://greppon101.github.io/](https://greppon101.github.io/)
 
 
 

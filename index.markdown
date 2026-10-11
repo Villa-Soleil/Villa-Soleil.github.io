@@ -58,18 +58,11 @@ Le Lac Sainte-Croix et les Gorges du Verdon sont situés à 20 minutes en voitur
 
 La maison se trouve à environ une heure de voiture de la mer.
 
-L’adresse de la maison :
-```
-385 Carraïre de l’Eouvière
-F-83630 Régusse
-```
-[Voir sur google maps][lien_adresse]
+
 
 Pour plus de renseignements :
 ```
 Rémy et Karin Lachat
-Rue des Sugits 12
-CH-2114 Fleurier
 Fixe :  +41 32 861 43 89 
 Rémy :  +41 78 682 76 75 
 Karin : +41 78 682 76 95
@@ -82,4 +75,3 @@ Si vous êtes à la recherche d'un **appartement à la montagne** pour cet hiver
 
 
 [lien_photos]: https://drive.google.com/drive/folders/1u66HSnmbkkYKqmUwEsGjTzSHbqHs_sT5?usp=sharing
-[lien_adresse]: https://goo.gl/maps/pRXoCnDuEWykw3zU7

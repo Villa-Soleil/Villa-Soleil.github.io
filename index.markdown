@@ -63,8 +63,6 @@ La maison se trouve à environ une heure de voiture de la mer.
 Pour plus de renseignements :
 ```
 Rémy et Karin Lachat
-Fixe :  +41 32 861 43 89 
-Rémy :  +41 78 682 76 75 
 Karin : +41 78 682 76 95
 ```
 
